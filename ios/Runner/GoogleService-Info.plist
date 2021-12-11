@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>271254327391-audsgft67tane77bf2714ve1mb1g5svm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.271254327391-audsgft67tane77bf2714ve1mb1g5svm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkNPA8N2wamA2H9H2QcRrQTjld-YENVOY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>271254327391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qazcode.qazaccode</string>
+	<key>PROJECT_ID</key>
+	<string>qazcode-92c01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qazcode-92c01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:271254327391:ios:009f76d06aabefae708bea</string>
+	<key>DATABASE_URL</key>
+	<string>https://qazcode-92c01.firebaseio.com</string>
+</dict>
+</plist>

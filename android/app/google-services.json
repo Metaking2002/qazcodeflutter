@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271254327391",
+    "firebase_url": "https://qazcode-92c01.firebaseio.com",
+    "project_id": "qazcode-92c01",
+    "storage_bucket": "qazcode-92c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271254327391:android:2d4c22da071ec634",
+        "android_client_info": {
+          "package_name": "com.qazcode.qazaccode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271254327391-69t80t3p0f5fptirkfm444t13mp5na45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEavQhlTMm7lqNsv5pNP_UyV0n6uFF1ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271254327391-69t80t3p0f5fptirkfm444t13mp5na45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271254327391-n977oimq3l7ph1scvn0dgjrr4k216927.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qazcode.qazCode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
